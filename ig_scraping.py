@@ -50,4 +50,4 @@ def create_instagram_scraping_session(username, password, hashtag1, hashtag2):
     # 6. Now that you have the returned data, you can see what trends are found in the media posted 
     # (such as trends found in captions, content type, etc.)
 
-create_instagram_scraping_session("Coocoolady","Coocoomane", "fashion", "beauty" )
+# create_instagram_scraping_session("Coocoolady","Coocoomane", "fashion", "beauty" )
