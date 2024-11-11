@@ -1,5 +1,5 @@
 from instagramy import Instagram 
-
+from instagramy import Instalysis 
 
 # Connecting the profile 
 user = Instagram("geeks_for_geeks") 
@@ -19,8 +19,6 @@ for post in posts:
 	comments = post["comment"] 
 	print(likes,comments)
 
-
-from instagramy import Instalysis 
 
 # Instagram user_id of ipl teams 
 teams = ["chennaiipl", "mumbaiindians", 
